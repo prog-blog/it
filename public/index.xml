@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 28 Nov 2024 19:30:56 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Тестирование</title>
+      <link>//localhost:1313/posts/testing/</link>
+      <pubDate>Thu, 28 Nov 2024 19:30:56 +0300</pubDate>
+      <guid>//localhost:1313/posts/testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Администрирование</title>
+      <link>//localhost:1313/posts/sysadm/</link>
+      <pubDate>Thu, 28 Nov 2024 19:30:51 +0300</pubDate>
+      <guid>//localhost:1313/posts/sysadm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>База</title>
+      <link>//localhost:1313/posts/base/</link>
+      <pubDate>Thu, 28 Nov 2024 19:30:45 +0300</pubDate>
+      <guid>//localhost:1313/posts/base/</guid>
+      <description>&lt;h1 id=&#34;как-быстрее-войти-в-it-советы-от-опытного-разработчика&#34;&gt;Как быстрее войти в IT: Советы от опытного разработчика&lt;/h1&gt;&#xA;&lt;p&gt;IT — это динамичная сфера, где востребованность специалистов постоянно растет. Войти в эту индустрию можно быстро, если подходить к процессу грамотно и целенаправленно. Как опытный разработчик, я хочу поделиться советами, которые помогут вам ускорить этот процесс.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-сфокусируйтесь-на-одной-цели&#34;&gt;1. Сфокусируйтесь на одной цели&lt;/h2&gt;&#xA;&lt;p&gt;Когда вы только начинаете, легко растеряться в обилии направлений и технологий. Но пытаться охватить всё сразу — ошибка.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Совет:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Выберите одно направление и углубитесь в него. Например, начните с веб-разработки, выбрав язык (JavaScript или Python) и изучив базовые инструменты, такие как HTML и CSS.&lt;/li&gt;&#xA;&lt;li&gt;Поймите, какие задачи вам интересны: писать код, работать с данными или организовывать процессы.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-практикуйтесь-каждый-день&#34;&gt;2. Практикуйтесь каждый день&lt;/h2&gt;&#xA;&lt;p&gt;Теория без практики бесполезна. Даже если вы изучаете сложные темы, старайтесь применять их на практике.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
