@@ -13,14 +13,14 @@
       <link>//localhost:1313/posts/testing/</link>
       <pubDate>Thu, 28 Nov 2024 19:30:56 +0300</pubDate>
       <guid>//localhost:1313/posts/testing/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;тестирование&#34;&gt;Тестирование&lt;/h1&gt;&#xA;&lt;p&gt;Тестирование&lt;/p&gt;</description>
     </item>
     <item>
       <title>Администрирование</title>
       <link>//localhost:1313/posts/sysadm/</link>
       <pubDate>Thu, 28 Nov 2024 19:30:51 +0300</pubDate>
       <guid>//localhost:1313/posts/sysadm/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;администрирование&#34;&gt;Администрирование&lt;/h1&gt;&#xA;&lt;p&gt;Администрирование&lt;/p&gt;</description>
     </item>
     <item>
       <title>База</title>
