@@ -2,7 +2,6 @@ baseURL = "https://prog-blog.github.io/it/"
 languageCode = "ru"
 title = "Блог про айти"
 theme = "poison"
-
 paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
@@ -17,7 +16,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
-    front_page_content = ["/posts/"] # Equivalent to the default value, add page bundle names to include them on the front page.
+    # front_page_content = ["/it/posts/"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
     # MENU PLACEHOLDER
     # Menu dict keys:
@@ -27,9 +26,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         # {Name = "About", URL = "/posts/", HasChildren = false}, 
-        {Name = "Посты", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 10},
+        {Name = "Посты", URL = "posts", Pre = "Recent", HasChildren = true, Limit = 10},
         {Name = "Base", URL = "/posts/base/"},
-        {Name = "Sysadm", URL = "/posts/sysadm/"},
+        {Name = "Sysadm", URL = "/posts/sysadm/", weight = 20},
         {Name = "Testing", URL = "/posts/testing/"},
     ]
 
@@ -113,3 +112,4 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 [taxonomies]
     series = 'series'
     tags = 'tags'
+    
