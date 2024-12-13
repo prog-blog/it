@@ -1,4 +1,13 @@
-{{ define "main" -}}
+{{ define "main" -}} {{ $redirectURL := .Site.Params.redirectHome }}
+<html lang="en">
+	<head>
+		<meta http-equiv="refresh" content="0; url={{ $redirectURL }}" />
+		<title>Redirecting...</title>
+	</head>
+	<body>
+		<p>Redirecting to <a href="{{ $redirectURL }}">{{ $redirectURL }}</a>...</p>
+	</body>
+</html>
 <div class="posts">
 	{{ $frontPageTypes := default (slice "posts") .Site.Params.front_page_content
 	}} {{ range (.Paginate (where .Site.RegularPages "Type" "in"

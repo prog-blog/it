@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Посты on Блог про айти</title>
-    <link>http://localhost:1313/it/</link>
+    <link>http://localhost:1313/it/posts/it/</link>
     <description>Recent content in Посты on Блог про айти</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 28 Nov 2024 19:30:56 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/it/posts/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Тестирование</title>
       <link>http://localhost:1313/it/posts/testing/</link>

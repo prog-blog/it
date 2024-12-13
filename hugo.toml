@@ -26,13 +26,14 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        # {Name = "About", URL = "/about/", HasChildren = false},
+        # {Name = "About", URL = "/posts/", HasChildren = false}, 
         {Name = "Посты", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 10},
         {Name = "Base", URL = "/posts/base/"},
         {Name = "Sysadm", URL = "/posts/sysadm/"},
         {Name = "Testing", URL = "/posts/testing/"},
     ]
 
+    redirectHome = "/it/posts/"
     # Links to your socials.  Comment or delete any you don't need/use. 
     email_url = "mailto:standbymail@proton.me"
     # discord_url = "https://discord.com"
