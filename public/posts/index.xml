@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Блог про айти</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/it/posts/</link>
     <description>Recent content in Posts on Блог про айти</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 28 Nov 2024 19:30:56 +0300</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/it/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Тестирование</title>
-      <link>//localhost:1313/posts/testing/</link>
+      <link>http://localhost:1313/it/posts/testing/</link>
       <pubDate>Thu, 28 Nov 2024 19:30:56 +0300</pubDate>
-      <guid>//localhost:1313/posts/testing/</guid>
+      <guid>http://localhost:1313/it/posts/testing/</guid>
       <description>&lt;h1 id=&#34;тестирование&#34;&gt;Тестирование&lt;/h1&gt;&#xA;&lt;p&gt;Тестирование&lt;/p&gt;</description>
     </item>
     <item>
       <title>Администрирование</title>
-      <link>//localhost:1313/posts/sysadm/</link>
+      <link>http://localhost:1313/it/posts/sysadm/</link>
       <pubDate>Thu, 28 Nov 2024 19:30:51 +0300</pubDate>
-      <guid>//localhost:1313/posts/sysadm/</guid>
+      <guid>http://localhost:1313/it/posts/sysadm/</guid>
       <description>&lt;h1 id=&#34;администрирование&#34;&gt;Администрирование&lt;/h1&gt;&#xA;&lt;p&gt;Администрирование&lt;/p&gt;</description>
     </item>
     <item>
       <title>База на русском языке</title>
-      <link>//localhost:1313/posts/base/</link>
+      <link>http://localhost:1313/it/posts/base/</link>
       <pubDate>Thu, 28 Nov 2024 19:30:45 +0300</pubDate>
-      <guid>//localhost:1313/posts/base/</guid>
+      <guid>http://localhost:1313/it/posts/base/</guid>
       <description>&lt;h1 id=&#34;легкий-и-бесплатный-вход-в-it-пошаговый-гид&#34;&gt;Легкий и бесплатный вход в IT: пошаговый гид&lt;/h1&gt;&#xA;&lt;p&gt;Я прекрасно помню, как сам начинал с нуля и тратил часы на поиск качественных материалов. Поэтому хочу поделиться с вами простыми, доступными и бесплатными ресурсами, которые помогут вам сделать первые шаги в мир IT.&lt;/p&gt;&#xA;&lt;p&gt;Знаете, самое сложное — это начать. IT может казаться пугающим и сложным миром, где уже давно всё поделено между профессионалами. Но это не так! Каждый год в индустрию приходят тысячи новичков, и многие из них становятся успешными, даже не имея технического образования. Главное — не бояться учиться, задавать вопросы и пробовать новое.&lt;/p&gt;</description>
     </item>
   </channel>

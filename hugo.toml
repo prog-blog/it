@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://prog-blog.github.io/it/"
 languageCode = "ru"
 title = "Блог про айти"
 theme = "poison"
@@ -17,7 +17,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
-    front_page_content = ["/"] # Equivalent to the default value, add page bundle names to include them on the front page.
+    front_page_content = ["/posts/"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
     # MENU PLACEHOLDER
     # Menu dict keys:
@@ -34,7 +34,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
-    email_url = "mailto:walx404@gmail.com"
+    email_url = "mailto:standbymail@proton.me"
     # discord_url = "https://discord.com"
     # facebook_url = "https://facebook.com"
     # flickr_url = "https://flickr.com"
